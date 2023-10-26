@@ -63,7 +63,8 @@ h2{
     width: 100%;
     position: fixed;
     z-index: 1;
-}
+} 
+
 ul{
     display: flex;
     list-style: none;
@@ -74,7 +75,7 @@ li{
 }
 a{
     text-decoration: none;
-    padding: 10px;
-    border-radius: 25px;
+    padding: 10px 15px;
+    border-radius:  25px;
     background-color: white;
 }
